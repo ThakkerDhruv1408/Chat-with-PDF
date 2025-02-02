@@ -1,0 +1,9 @@
+ollama
+chromadb == 0.5.18
+langchain
+langchain-core
+langchain-ollama
+langchain-community
+langchain_text_splitters
+unstructured
+unstructured[all-docs]
